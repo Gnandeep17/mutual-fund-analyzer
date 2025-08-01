@@ -16,13 +16,6 @@ This Excel project provides a simple yet powerful tool to analyze the historical
 
 ---
 
-##  Files Included
-
-- `Fund_Performance_Analyzer_FIXED.xlsx` — Main Excel dashboard  
-- `README.md` — Project documentation  
-- *(Optional)* `dashboard.png` — Screenshot of the dashboard  
-
----
 
 ##  Skills Demonstrated
 
